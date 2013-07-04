@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.jbandala.portafolio"
+        id        = "com.jbandala.catalogo"
         version   = "0.0.1">
-    <name>Portafolio</name>
+    <name>CATALOGO</name>
 
     <description>
-       Portafolio JBandala
+      CATALOGO SABUGO
     </description>
 
     <author href="http://www.jbandala.com" email="eric@jbandala.com">
-        Cenet
+       JBANDALA
     </author>
 
       <feature name="http://api.phonegap.com/1.0/device" />
